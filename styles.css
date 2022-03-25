@@ -25,7 +25,7 @@ a {
 }
 
 a:visited {
-	color: crimson;
+	color: deepskyblue;
 }
 
 
@@ -45,12 +45,40 @@ align-items: center;
 margin: 20px;
 box-shadow: inset;
 box-shadow:2px 2px 3px 0px rgba(0,0,0,0.30);
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+
 
 }
 .profile-pic {
     height: 200px;
     width: 200px;
+    margin: 30px 50%;
+    border-radius: 50%;
+	border-style: groove;
+
+}
+
+.my-name {
+  
+    margin: 10px 20px;
+	font-size: large;
+	font-weight:900;
+  
+	
+}
+
+.about-me {
+ 
     margin: 50px 25px;
     border-radius: 50%;
 	
 }
+.contact-me {
+
+    margin: 50px 20%;
+	padding-bottom: 50px;
+   
+	
+}
+
