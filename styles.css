@@ -1,0 +1,56 @@
+body {
+  background: azure;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+header {
+
+background-color: white;
+display: block;
+align-items: center;
+margin: 20px;
+box-shadow: inset;
+box-shadow:2px 2px 3px 0px rgba(0,0,0,0.30);
+
+}
+.profile-pic {
+    height: 200px;
+    width: 200px;
+    margin: 50px 25px;
+    border-radius: 50%;
+	
+}
