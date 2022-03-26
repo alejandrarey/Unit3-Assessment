@@ -97,3 +97,16 @@ font-style: italic;
 button:hover {
 	background-color: lightpink;
 }
+
+.back-pic {
+	margin: 50px;
+	height: 200px;
+	width: 600px;
+	border-radius: 50%;
+}
+
+h1 {
+	position: center;
+	align-content:space-between;
+	color: deepskyblue;
+}
