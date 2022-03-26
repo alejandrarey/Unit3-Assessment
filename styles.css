@@ -82,3 +82,18 @@ font-style: italic;
 	
 }
 
+.fav-btns {
+
+	background-color: yellow;
+	height: 50px;
+	margin: 50px 7px;
+	display: flexbox;
+	border-color: darkblue;
+	border-radius: 10px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	
+}
+
+button:hover {
+	background-color: lightpink;
+}
